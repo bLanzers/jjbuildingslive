@@ -849,7 +849,7 @@ class SocialComponent {
     }
 }
 SocialComponent.ɵfac = function SocialComponent_Factory(t) { return new (t || SocialComponent)(); };
-SocialComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SocialComponent, selectors: [["app-social"]], decls: 22, vars: 0, consts: [["href", "#", 1, "facebook"], [1, "fab", "fa-facebook-f"], ["href", "#", 1, "email"], [1, "far", "fa-envelope"], ["href", "#", 1, "whatsapp"], [1, "fab", "fa-whatsapp"], ["href", "#", 1, "phone"], [1, "fas", "fa-phone"]], template: function SocialComponent_Template(rf, ctx) { if (rf & 1) {
+SocialComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: SocialComponent, selectors: [["app-social"]], decls: 22, vars: 0, consts: [["href", "#", 1, "facebook"], [1, "fa", "fa-facebook-f"], ["href", "#", 1, "email"], [1, "fa", "fa-envelope"], ["href", "#", 1, "whatsapp"], [1, "fa", "fa-whatsapp"], ["href", "#", 1, "phone"], [1, "fa", "fa-phone"]], template: function SocialComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "ul");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "li");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "a", 0);
@@ -1979,7 +1979,7 @@ class ContactComponent {
     }
 }
 ContactComponent.ɵfac = function ContactComponent_Factory(t) { return new (t || ContactComponent)(); };
-ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 50, vars: 0, consts: [[1, "container"], [1, "contact-form-container"], [1, "inner-wrapper"], [1, "contact-us"], [1, "contact-header"], [1, "social-bar"], [1, "fab", "fa-facebook-f"], [1, "fab", "fa-twitter"], [1, "fab", "fa-instagram"], [1, "fab", "fa-dribbble"], [1, "header"], [1, "address"], [1, "fas", "fa-map-marker-alt"], [1, "phone"], [1, "fas", "fa-phone-alt"], [1, "email"], [1, "fas", "fa-envelope"], [1, "contact-form"], ["placeholder", "Name", "type", "text"], ["placeholder", "Email", "type", "email"], ["placeholder", "Tell us about your project...", "rows", "4"], ["type", "button"], [1, "about-panel-wrapper"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125766.12979985506!2d78.05278234410477!3d9.91799869086903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00c582b1189633%3A0xdc955b7264f63933!2sMadurai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1615397774356!5m2!1sen!2sin"), "width", "100%", "height", "100%", "allowfullscreen", "", "loading", "lazy", 2, "border", "0"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
+ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: ContactComponent, selectors: [["app-contact"]], decls: 50, vars: 0, consts: [[1, "container"], [1, "contact-form-container"], [1, "inner-wrapper"], [1, "contact-us"], [1, "contact-header"], [1, "social-bar"], [1, "fab", "fa-facebook-f"], [1, "fab", "fa-twitter"], [1, "fab", "fa-instagram"], [1, "fab", "fa-dribbble"], [1, "header"], [1, "address"], [1, "fa", "fa-map-marker"], [1, "phone"], [1, "fa", "fa-phone"], [1, "email"], [1, "fa", "fa-envelope"], [1, "contact-form"], ["placeholder", "Name", "type", "text"], ["placeholder", "Email", "type", "email"], ["placeholder", "Tell us about your project...", "rows", "4"], ["type", "button"], [1, "about-panel-wrapper"], ["src", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtrustConstantResourceUrl"]("https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15719.92632594941!2d78.0563484!3d9.9354902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcdcb083a7e4fb9d6!2sJJ%20enterprises%20building%20materials%20al%20aqua%20pump%20submersible%20pump%20sub%20motor%20Raj%20adaptor%20bore%20clamp%20water%20tank%20pride%20tap%20electrical%20goods%20plumbing%20goods%20fan%20dealer%20cpvc%20fittings!5e0!3m2!1sen!2sin!4v1618518362786!5m2!1sen!2sin"), "height", "100%", "width", "100%", "allowfullscreen", "", "loading", "lazy", 2, "border", "0"]], template: function ContactComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -2036,7 +2036,7 @@ ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 15);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](38, "i", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "h3");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, " hello@adept.com ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, " jjenterprises9101@gmail.com ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 17);
